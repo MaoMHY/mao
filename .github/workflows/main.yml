@@ -29,4 +29,5 @@ jobs:
         to: ${{secrets.MAIL_TOUSERNAME}}
         from: ${{secrets.MAIL_USERNAME}}
         body: file://README.MD
+        content_type: text/plain
 
