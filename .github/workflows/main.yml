@@ -28,6 +28,6 @@ jobs:
         subject: Github Actions job result
         to: ${{secrets.MAIL_TOUSERNAME}}
         from: ${{secrets.MAIL_USERNAME}}
-        body: file://README.MD
+        body: file://README.md
         content_type: text/plain
 
