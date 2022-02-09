@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+c:\users\dell\desktop\simpletest\consoleapplication5\consoleapplication5\consoleapplication5.cpp(103): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ConsoleApplication5.vcxproj -> C:\Users\DELL\Desktop\simpleTest\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
+  ConsoleApplication5.vcxproj -> C:\Users\DELL\Desktop\simpleTest\ConsoleApplication5\x64\Debug\ConsoleApplication5.pdb (Full PDB)
